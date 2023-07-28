@@ -4,11 +4,13 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Smart Agriculture System}
+= Project: {Smart Irrigation System}
 
-Describe your project:
-  Collects Moisture, Temperature, and Humidity data from Sensors and based on the date the irrigation is controlled.
-  Give's GUI for Mobile, Webpage, Graphical Displaying Unit. 
+DESCRIPTION:
+
+    1. This System Monitor and Control the farming equipment to implement the smart irrigation System.
+    2. Collects Moisture, Temperature, and Humidity data from Sensors based on the date the irrigation is controlled.
+    3. Give's GUI for Mobile, Webpage, and Graphical Displaying Units. 
 
 
 
